@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrabalhoLP-1/static/css/main.eefc237f.css",
+    "main.js": "/TrabalhoLP-1/static/js/main.bc2385ad.js",
+    "index.html": "/TrabalhoLP-1/index.html",
+    "main.eefc237f.css.map": "/TrabalhoLP-1/static/css/main.eefc237f.css.map",
+    "main.bc2385ad.js.map": "/TrabalhoLP-1/static/js/main.bc2385ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.bc2385ad.js"
+  ]
+}
